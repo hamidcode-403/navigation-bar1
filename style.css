@@ -1,0 +1,70 @@
+body{
+    padding:0;
+    margin:0;
+}
+main{
+    padding-right:20px;
+    padding-left: 20px;
+
+}
+h1{
+    text-align:center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color:aqua;
+    padding:0px;
+    margin:0px; 
+    overflow: hidden;
+}
+
+.navbar a{
+    color:rgb(5, 1, 23);
+    text-decoration:none;
+    padding:15px;
+    display:block; 
+    text-align:center;
+
+}
+.navbar a:hover{
+    background-color: rgba(6, 139, 139, 0.363);
+}
+.navbar li{
+    float: left;
+}
+#about-div{
+    height: 100px;
+    background-color:rgb(38, 147, 147)
+    
+}
+#about-p{
+    text-align:center;
+    padding-top: 40px;
+}
+#contacts-div{
+    height: 100px;
+    background-color:rgb(38, 147, 147)
+    
+}
+#contacts-p{
+    text-align:center;
+    padding-top: 40px;
+}
+#about-div{
+    height: 100px;
+    background-color:rgb(38, 147, 147)
+    
+}
+#about-p{
+    text-align:center;
+    padding-top: 40px;
+}
+#product-div{
+    height: 100px;
+    background-color:rgb(38, 147, 147)
+    
+}
+#product-p{
+    text-align:center;
+    padding-top: 40px;
+}
